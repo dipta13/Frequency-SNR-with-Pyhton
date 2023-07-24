@@ -1,1 +1,1 @@
-# Tugas_Python14
+# Frequency SNR with Pyhton
